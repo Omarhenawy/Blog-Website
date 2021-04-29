@@ -6,6 +6,10 @@
     --dark: grey;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -99,6 +103,14 @@ img {
     width: 100%;
     outline: 0;
     padding: 0.6rem 0;
+}
+
+.author {
+    align-content: center;
+    text-align: center;
+    font-size: large;
+    color: black;
+    height: 10vh;
 }
 
 .search-btn {
