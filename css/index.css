@@ -34,7 +34,13 @@ img {
 
 .navbar {
     background: rgba(0, 0, 0, 0.4);
-    padding: 1.2rem;
+    padding: 0.3rem;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 .navbar-brand {
