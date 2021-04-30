@@ -6,6 +6,18 @@
     --dark: grey;
 }
 
+p {
+    font-style: italic;
+}
+
+a {
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: wavy;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -116,7 +128,7 @@ img {
     text-align: center;
     font-size: large;
     color: black;
-    height: 10vh;
+    height: 30vh;
 }
 
 .search-btn {
