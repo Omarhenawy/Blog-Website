@@ -55,6 +55,11 @@ img {
     width: 100%;
 }
 
+.share {
+    height: 20vh;
+    background-color: ghostwhite;
+}
+
 .navbar-brand {
     color: black;
     font-size: 4rem;
